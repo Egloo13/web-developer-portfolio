@@ -240,10 +240,8 @@ background-position: top left, bottom right;
 
    /* responsive */
    
-   @media screen and (max-width: 393px) {
-    .hide {
-        display: none;
-    }
+   @media screen and (max-width: 576px) {
+    
      .bannar, body {
         background-image: none;
         background-color:none; 
