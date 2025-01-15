@@ -240,7 +240,7 @@ background-position: top left, bottom right;
 
    /* responsive */
    
-   @media screen and (max-width: 576px) {
+   @media screen and (max-width: 393px) {
     .hide {
         display: none;
     }
