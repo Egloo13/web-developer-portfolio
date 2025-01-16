@@ -241,7 +241,6 @@ background-position: top left, bottom right;
    /* responsive */
    
    @media screen and (max-width: 576px) {
-    
      .bannar, body {
         background-image: none;
         background-color:none; 
@@ -294,4 +293,5 @@ background-position: top left, bottom right;
      }
         
      }
-   
+
+     
